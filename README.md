@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React and other tools**
 
-- 👨‍💻 All of my projects are available at [https://olhachumak.vercel.app/](olhachumak.site(demo))
+- 👨‍💻 All of my projects are available at [olhachumak.site(demo)](https://olhachumak.vercel.app)
 
 - 📫 My e-mail: **olyachumakk@gmail.com**
 
