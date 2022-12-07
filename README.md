@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [olhachumak.site(demo)] (https://olhachumak.vercel.app)
 
-- 📫 My e-mail: **olyachumakk@gmail.com**
+- 📫 My email: **olyachumakk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
