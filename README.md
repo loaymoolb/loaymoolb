@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently looking for **experience in web-development**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React and other tools**
+#### - 👨‍💻 Welcome to visit my portfolio website [olhachumak.site (demo)](https://olhachumak.vercel.app)
 
-- 👨‍💻 All of my projects are available at [olhachumak.site (demo)](https://olhachumak.vercel.app)
+- 🌱 I’m currently learning **JavaScript, TypeScript, React and other tools**
 
 - 📫 My email: **olyachumakk@gmail.com**
 
