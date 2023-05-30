@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olya</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently looking for **experience in web-development**
+- 🔭 **Frontend Developer**
 
 - 👨‍💻 **Welcome to visit my portfolio website [olhachumak.site](https://www.olhachumak.site)**
 
