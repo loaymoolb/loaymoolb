@@ -3,7 +3,7 @@
 
 - 🔭 **Frontend Developer**
 
-- 👨‍💻 **Welcome to visit my portfolio website [olhachumak.site](https://www.olhachumak.com)**
+- 👨‍💻 **Welcome to visit my portfolio website [olhachumak.com](https://www.olhachumak.com)**
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React and other tools**
 
