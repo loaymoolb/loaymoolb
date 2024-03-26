@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olya</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 **Frontend Developer**
-
 - 👨‍💻 **My portfolio website: [olhachumak.com](https://www.olhachumak.com)**
 
 - 🌱 I’m workiing with **TypeScript, JavaScript, React, Vue.js and other tools**
